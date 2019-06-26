@@ -432,6 +432,12 @@
         "cat": "article"
     },
     {
+        "title": "Things I have learnt as the software engineering lead of a multinational",
+        "url": "https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/",
+        "reason": "",
+        "cat": "article"
+    },
+    {
         "title": "How Lever Got To 50–50 Women and Men",
         "url": "https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee#.k8h1l47qx",
         "reason": "",
@@ -667,7 +673,7 @@
     },
     {
         "title": "CTO Think - How important is a work-life or non-tech balance for a technology career?",
-        "url": "https://www.ctothink.com/episodes/2018-01-27-7.html",
+        "url": "https://www.ctothink.com/episodes/7-work-life-or-non-tech-balance-is-it-worth-the-hype",
         "reason": "This episode talks about the importance of work-life or non-tech balance for someone building a career in technology",
         "cat": "podcast"
     },
@@ -688,5 +694,95 @@
         "url": "http://firstround.com/review/clean-up-corrosive-interpersonal-dynamics-on-your-team-with-this-system",
         "reason": "A good article on how to help foster a good culture for your team",
         "cat": "article"
+    },
+    {
+        "title": "The latest trend for tech interviews: Days of unpaid homework",
+        "url": "https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework",
+        "reason": "A good perspective on take-home exercises for interviews",
+        "cat": "article"
+    },
+    {
+        "title": "Managers Can’t Be Great Coaches All by Themselves",
+        "url": "https://hbr.org/2018/05/managers-cant-be-great-coaches-all-by-themselves",
+        "reason": "A good article outlining ways to grow as a manager and as a team coaches",
+        "cat": "article"
+    },
+    {
+        "title": "Brotopia: Breaking Up the Boys' Club of Silicon Valley",
+        "url": "https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534",
+        "reason": "Provides insight into D&I history",
+        "cat": "book"
+    },
+    {
+        "title": "Say the Hard Thing",
+        "url": "http://randsinrepose.com/archives/say-the-hard-thing/",
+        "reason": "The article provides some good insights into how to deliver direct feedback, but also how to receive feedback",
+        "cat": "article"
+    },
+    {
+        "title": "Reaching Peak Meeting Efficiency",
+        "url": "https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a",
+        "reason": "Some helpful tips on improving your meeting efficiency",
+        "cat": "article"
+    },
+    {
+        "title": "Research: To Be a Good Leader, Start By Being a Good Follower",
+        "url": "https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower",
+        "reason": "Some good points to be more relatable with your team",
+        "cat": "article"
+    },
+    {
+        "title": "Why You Should Stop Caring What Other People Think",
+        "url": "https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html",
+        "reason": "Why it's important to not get caught up about what others think",
+        "cat": "article"
+    },
+    {
+        "title": "How to Give Feedback to People Who Cry, Yell, or Get Defensive",
+        "url": "https://hbr.org/2016/09/how-to-give-feedback-to-people-who-cry-yell-or-get-defensive",
+        "reason": "A good article on helpful tips for giving feedback",
+        "cat": "article"
+    },
+    {
+        "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+        "url": "https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB",
+        "reason": "",
+        "cat": "book"
+    },
+    {
+        "title": "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead",
+        "url": "https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790",
+        "reason": "Work at Google",
+        "cat": "book"
+    },
+    {
+        "title": "WorkLife with Adam Grant",
+        "url": "https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2",
+        "reason": "A great podcast episode around how important it is to give critical feedback",
+        "cat": "podcast"
+    },
+    {
+        "title": "How to counteract 3 types of bias and run inclusive meetings",
+        "url": "https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings",
+        "reason": "A good article to help run more inclusive meetings",
+        "cat": "article"
+    },
+    {
+        "title": "Turn the Ship Around!",
+        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y",
+        "reason": "A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.",
+        "cat": "book"
+    },
+    {
+        "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2",
+        "reason": "A book with helpful information on leading introverts",
+        "cat": "book"
+    },
+    {
+        "title": "The power of vulnerability - Brene Brown",
+        "url": "https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be",
+        "reason": "A video that helps outline why it's important as a leader to be vulnerabile with your team",
+        "cat": "video"
     }
 ]

@@ -41,6 +41,11 @@
  * [Originals - How Non-Conformists Move the World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565)
  * [What Every Body Is Saying](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294)
  * [What Got You Here Won't Get You There: How successful people become even more successful](https://www.amazon.com/What-Got-Here-Wont-There/dp/1781251568)
+ * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) - Provides insight into D&I history
+ * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB)
+ * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Work at Google
+ * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
+ * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
 
 ## Videos
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
@@ -54,6 +59,7 @@
  * [Cloning Yourself Isn’t an Option – Camille Fournier at The Lead Developer 2015](https://vimeo.com/139907569)
  * [Rethinking the Developer Career Path](https://youtu.be/yIPbE7BssOs)
  * [Collaborative Development: The Only CD That Matters - Brent Beer (GitHub) at Codemotion Italy 2017](https://www.youtube.com/watch?v=XyqeKmefgYw)
+ * [The power of vulnerability - Brene Brown](https://www.youtube.com/watch?v=iCvmsMzlF7o&feature=youtu.be) - A video that helps outline why it's important as a leader to be vulnerabile with your team
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
@@ -64,7 +70,8 @@
  * [Endless Rewrites and Fake Deadlines](https://softskills.audio/2017/10/13/episode-78-endless-rewrites-and-fake-deadlines/)
  * [The Full Ratchet: VC | Venture Capital | Angel Investors | Startup Investing | Fundraising | Crowdfunding | Pitch | Private Equ](https://itunes.apple.com/ca/podcast/118.-economic-theory-in-venture/id888084300?i=1000378448924&mt=2)
  * [HBR Ideacast - Hiring the Best People](https://overcast.fm/+DiCC8OA) - Patty McCord, Netflix’s former Chief Talent Officer, talks about how to hire and retain top talent
- * [CTO Think - How important is a work-life or non-tech balance for a technology career?](https://www.ctothink.com/episodes/2018-01-27-7.html) - This episode talks about the importance of work-life or non-tech balance for someone building a career in technology
+ * [CTO Think - How important is a work-life or non-tech balance for a technology career?](https://www.ctothink.com/episodes/7-work-life-or-non-tech-balance-is-it-worth-the-hype) - This episode talks about the importance of work-life or non-tech balance for someone building a career in technology
+ * [WorkLife with Adam Grant](https://itunes.apple.com/nz/podcast/how-to-love-criticism/id1346314086?i=1000404159792&mt=2) - A great podcast episode around how important it is to give critical feedback
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
@@ -106,6 +113,7 @@
  * [Regardless of seniority, every good manager will](http://randsinrepose.com/links/2017/01/05/regardless-of-seniority-every-good-manager-will/)
  * [W.A.I.S.T. The art of opening your ears and listening has never been so powerful](https://ibenstewart.com/w-a-i-s-t-68e9e5998da2)
  * [How to Improve, Not Kill the Annual Performance Review](https://www.radicalcandor.com/blog/improve-annual-performance-review/)
+ * [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/)
  * [How Lever Got To 50–50 Women and Men](https://medium.com/initialized-capital/how-lever-got-to-50-50-between-women-men-b8db05b7d3ee#.k8h1l47qx)
  * [Force-feeding your hiring managers diversity is a bad idea](http://venturebeat.com/2017/01/29/force-feeding-your-hiring-managers-diversity-is-a-bad-idea/)
  * [Why Diversity Programs Fail](https://hbr.org/2016/07/why-diversity-programs-fail)
@@ -123,6 +131,14 @@
  * [We Need to Talk About Servant Leadership](https://mfbt.ca/we-need-to-talk-about-servant-leadership-a719c4c05434) - An interesting article on leadership
  * [How to Run Inclusive Meetings](https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html) - Helpful tips to run more inclusive meetings at your company
  * [Clean Up Corrosive Interpersonal Dynamics on Your Team with This System](http://firstround.com/review/clean-up-corrosive-interpersonal-dynamics-on-your-team-with-this-system) - A good article on how to help foster a good culture for your team
+ * [The latest trend for tech interviews: Days of unpaid homework](https://work.qz.com/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework) - A good perspective on take-home exercises for interviews
+ * [Managers Can’t Be Great Coaches All by Themselves](https://hbr.org/2018/05/managers-cant-be-great-coaches-all-by-themselves) - A good article outlining ways to grow as a manager and as a team coaches
+ * [Say the Hard Thing](http://randsinrepose.com/archives/say-the-hard-thing/) - The article provides some good insights into how to deliver direct feedback, but also how to receive feedback
+ * [Reaching Peak Meeting Efficiency](https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a) - Some helpful tips on improving your meeting efficiency
+ * [Research: To Be a Good Leader, Start By Being a Good Follower](https://hbr.org/2018/08/research-to-be-a-good-leader-start-by-being-a-good-follower) - Some good points to be more relatable with your team
+ * [Why You Should Stop Caring What Other People Think](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html) - Why it's important to not get caught up about what others think
+ * [How to Give Feedback to People Who Cry, Yell, or Get Defensive](https://hbr.org/2016/09/how-to-give-feedback-to-people-who-cry-yell-or-get-defensive) - A good article on helpful tips for giving feedback
+ * [How to counteract 3 types of bias and run inclusive meetings](https://www.atlassian.com/blog/teamwork/how-to-run-inclusive-meetings) - A good article to help run more inclusive meetings
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
