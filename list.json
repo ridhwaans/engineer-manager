@@ -6,6 +6,12 @@
         "cat": "book"
     },
     {
+        "title": "Ryan Burgess' Manager Videos",
+        "url": "https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK",
+        "reason": "A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.",
+        "cat": "video"
+    },
+    {
         "title": "Behind Closed Doors: Secrets of Great Management",
         "url": "https://www.amazon.com/Behind-Closed-Doors-Management-Programmers-ebook/dp/B00A4OA6UQ/ref=mt_kindle?_encoding=UTF8&me=",
         "reason": "",
@@ -223,7 +229,7 @@
     },
     {
         "title": "Meetings that don't suck",
-        "url": "https://library.gv.com/meetings-that-don-t-suck-959b8b5df3a4#.vdhm03k8i",
+        "url": "https://techcrunch.com/2015/07/17/meetings-that-dont-suck",
         "reason": "Some good tips on how to improve meetings.",
         "cat": "article"
     },
@@ -518,7 +524,7 @@
     {
         "title": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
         "url": "https://www.goodreads.com/book/show/16158601-turn-the-ship-around",
-        "reason": "",
+        "reason": "A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.",
         "cat": "book"
     },
     {
@@ -768,12 +774,6 @@
         "cat": "article"
     },
     {
-        "title": "Turn the Ship Around!",
-        "url": "https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y",
-        "reason": "A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.",
-        "cat": "book"
-    },
-    {
         "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
         "url": "https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2",
         "reason": "A book with helpful information on leading introverts",
@@ -916,5 +916,257 @@
         "url": "https://practicebusiness.co.uk/how-to-decide-when-to-fire-someone",
         "reason": "This is never an easy decision to make, and this article has some helpful tips on when to decide to let someone go.",
         "cat": "article"
+    },
+    {
+        "title": "Coaching people through the Change Curve",
+        "url": "https://www.insights.com/resources/coaching-people-through-the-change-curve/",
+        "reason": "A helpful article that provides insights into how to prepare teams for an organizational structure change",
+        "cat": "article"
+    },
+    {
+        "title": "The Feedback Fallacy",
+        "url": "https://hbr.org/2019/03/the-feedback-fallacy",
+        "reason": "This article provides an interesting perspective on how to approach giving feedback that actually helps people grow",
+        "cat": "article"
+    },
+    {
+        "title": "What most managers don’t know about leading diverse teams",
+        "url": "https://qz.com/work/1901448/how-to-lead-a-diverse-team-effectively/",
+        "reason": "Building a diverse team is great, but how do you lead a diverse team? This article helps provide insights into leading a diverse team.",
+        "cat": "article"
+    },
+    {
+        "title": "Better Allies",
+        "url": "https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6",
+        "reason": "This is a must have resource in your inbox. Each week there are five great tips to help foster a more inclusive environment.",
+        "cat": "newsletter"
+    },
+    {
+        "title": "How I Approach the Toughest Decisions",
+        "url": "https://barackobama.medium.com/how-i-approach-the-toughest-decisions-dc1b165cdf2d",
+        "reason": "A great article from Barack Obama about how he approaches making tough decisions.",
+        "cat": "article"
+    },
+    {
+        "title": "The Art of Leadership: Small Things, Done Well",
+        "url": "https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1492045691",
+        "reason": "Another great book from Michael Lopp on leadership",
+        "cat": "book"
+    },
+    {
+        "title": "Front End Happy Hour - Good manager, bad manager - tasty drink, bland drink",
+        "url": "https://frontendhappyhour.com/episodes/good-manager-bad-manager-tasty-drink-bland-drink/",
+        "reason": "A panel discussion sharing opinions on what makes good and bad managers",
+        "cat": "podcast"
+    },
+    {
+        "title": "The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded",
+        "url": "https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/",
+        "reason": "This is an excellent book if you're starting a new role.",
+        "cat": "book"
+    },
+    {
+        "title": "The Experimental Leader: Be a New Kind of Boss to Cultivate an Organization of Innovators",
+        "url": "https://www.amazon.com/Experimental-Leader-Cultivate-Organization-Innovators/dp/1989603149",
+        "reason": "Helpful tips on how to be an innovative leader and avoid the faults of historical leadership",
+        "cat": "book"
+    },
+    {
+        "title": "The Alliance: Managing Talent in the Networked Age",
+        "url": "https://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773",
+        "reason": "A new way of thinking about management and thinking of your employees as allies",
+        "cat": "book"
+    },
+    {
+        "title": "Mindset: The New Psychology of Success",
+        "url": "https://www.goodreads.com/book/show/40745.Mindset",
+        "reason": "Learning how to overcome obstacles is no small thing. This book is about how to develop the right mindset to help you become better every day. Daniel Pink cites Carol Dweck in a book on this list - Drive",
+        "cat": "book"
+    },
+    {
+        "title": "The Making of a Manager: What to Do When Everyone Looks to You",
+        "url": "https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567",
+        "reason": "Great book for those moving into a leadership or management role. It provides helpful tactical advice for management",
+        "cat": "book"
+    },
+    {
+        "title": "An Elegant Puzzle: Systems of Engineering Management",
+        "url": "https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186",
+        "reason": "Written by a fellow Engineering Manager, Will Larson shows the challenges and demands of the discipline of engineering management viewed through the prism of systems thinking",
+        "cat": "book"
+    },
+    {
+        "title": "Feedback In Times of Crisis",
+        "url": "https://www.linkedin.com/pulse/feedback-times-crisis-karen-casella/",
+        "reason": "Some great insights into providing feedback during times of a crisis.",
+        "cat": "article"
+    },
+    {
+        "title": "Why Constraints Are Good for Innovation",
+        "url": "https://hbr.org/2019/11/why-constraints-are-good-for-innovation",
+        "reason": "An article that suggests that managers can innovate better by embracing constraints.",
+        "cat": "article"
+    },
+    {
+        "title": "Are You Leading Through the Crisis … or Managing the Response?",
+        "url": "https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response",
+        "reason": "Helpful tips and insights into how to lead during a crisis.",
+        "cat": "article"
+    },
+    {
+        "title": "CTO Insights with Tosho Trajanov",
+        "url": "https://insights.toshotrajanov.com/",
+        "reason": "Weekly reading on software engineering & technical leadership.",
+        "cat": "newsletter"
+    },
+    {
+        "title": "Mistakes I’ve Made as an Engineering Manager",
+        "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
+        "reason": "Vulnerability as a leader goes a long way. This article shares mistakes to avoid.",
+        "cat": "article"
+    },
+    {
+        "title": "Front End Happy Hour - Transitioning to a new role",
+        "url": "https://frontendhappyhour.com/episodes/transitioning-to-a-new-role-bar-hopping/",
+        "reason": "There's some good information on preparing for a new role.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Front End Happy Hour - Remote interviewing",
+        "url": "https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/",
+        "reason": "An episode talking about remote interviewing during COVID.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Fellow TLDR newsletter",
+        "url": "https://fellow.app/newsletter/",
+        "reason": "Helpful leadership tips in a regular newsletter.",
+        "cat": "newsletter"
+    },
+    {
+        "title": "How Great Managers Give and Receive Feedback",
+        "url": "https://fellow.app/blog/2019/how-managers-give-and-receive-feedback",
+        "reason": "Helpful tips on giving and receiving feedback.",
+        "cat": "article"
+    },
+    {
+        "title": "Should You Rehire an Employee Who Left Your Company?",
+        "url": "https://hbr.org/2021/02/should-you-rehire-an-employee-who-left-your-company",
+        "reason": "Interesting perspectives on thinking about hiring someone who had previously left the company.",
+        "cat": "article"
+    },
+    {
+        "title": "Rands Leadership Slack",
+        "url": "https://randsinrepose.com/welcome-to-rands-leadership-slack",
+        "reason": "Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.",
+        "cat": "community"
+    },
+    {
+        "title": "No, I’m not fine: A leader’s guide to building a culture where it’s ok to not be ok",
+        "url": "https://fellow.app/blog/2021/building-a-culture-where-its-ok-to-not-be-ok/",
+        "reason": "This article shares some helpful insights into building trust and vulnerability in your team.",
+        "cat": "article"
+    },
+    {
+        "title": "How to Build a Culture of Ownership, and Other Engineering Leadership Tips from Plaid & Dropbox",
+        "url": "https://review.firstround.com/how-to-build-a-culture-of-ownership-and-other-engineering-leadership-tips-from-plaid-and-dropbox",
+        "reason": "This article shares tips for getting alignment in a team.",
+        "cat": "article"
+    },
+    {
+        "title": "9 Tips for Effectively Sharing Peer Feedback in the Workplace",
+        "url": "https://fellow.app/blog/2021/tips-for-effectively-sharing-peer-feedback-in-the-workplace",
+        "reason": "Helpful tips for giving someone feedback.",
+        "cat": "article"
+    },
+    {
+        "title": "1 Top Priority About Remote Work That Most Managers Are Forgetting",
+        "url": "https://www.inc.com/marcel-schwantes/1-top-priority-about-remote-work-that-most-managers-are-forgetting.html",
+        "reason": "How to improve remote work for your team.",
+        "cat": "article"
+    },
+    {
+        "title": "Super Managers",
+        "url": "https://fellow.app/supermanagers",
+        "reason": "A podcast from Fellow that focuses on management topics.",
+        "cat": "podcast"
+    },
+    {
+        "title": "You're not just a manager, you're also a boss",
+        "url": "https://leaddev.com/professional-development/youre-not-just-manager-youre-also-boss",
+        "reason": "This article helps to identify the power dynamics that come with being a manager.",
+        "cat": "article"
+    },
+    {
+        "title": "Too Many Meetings? Here’s How to Scale Back",
+        "url": "https://fellow.app/blog/2021/too-many-meetings-heres-how-to-scale-back",
+        "reason": "There are some good tips for scaling back on the number of meetings you attend.",
+        "cat": "article"
+    },
+    {
+        "title": "How can managers create a culture for women to thrive?",
+        "url": "https://www.thefemalelead.com/post/how-can-managers-create-a-culture-for-women-to-thrive",
+        "reason": "Tips to be more inclusive to women in your teams.",
+        "cat": "article"
+    },
+    {
+        "title": "Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces",
+        "url": "https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303",
+        "reason": "The Better Allies is a great read on how to help build a more inclusive environment.",
+        "cat": "book"
+    },
+    {
+        "title": "Closing the gap: A manager’s guide to advancing gender equity in the workplace",
+        "url": "https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace",
+        "reason": "Suggestions for managers to help reduce gender gaps in the workplace.",
+        "cat": "article"
+    },
+    {
+        "title": "Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World",
+        "url": "https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows",
+        "reason": "Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Resilient Management",
+        "url": "https://resilient-management.com/",
+        "reason": "Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.",
+        "cat": "book"
+    },
+    {
+        "title": "How vulnerability makes you a better leader | Tracy Young",
+        "url": "https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED",
+        "reason": "TED Talk by Tracy Young who shares her story and demonstrates vulnerability and how important it is as a leader.",
+        "cat": "video"
+    },
+    {
+        "title": "“I Quit!” How to Tactfully Handle Employee Resignations",
+        "url": "https://fellow.app/blog/management/i-quit-how-to-tactfully-handle-employee-resignations",
+        "reason": "Helpful tips for dealing with someone leaving your team.",
+        "cat": "article"
+    },
+    {
+        "title": "Patty McCord: 8 lessons on building a company people enjoy working for",
+        "url": "https://www.ted.com/talks/patty_mccord_8_lessons_on_building_a_company_people_enjoy_working_for",
+        "reason": "An excellent TED talk by Patty McCord providing short tips for a better company working enviornment",
+        "cat": "video"
+    },
+    {
+        "title": "Happy Path Programming - Vulnerability & Additive Hiring with Dianne Marsh",
+        "url": "https://anchor.fm/happypathprogramming/episodes/24-Vulnerability--Additive-Hiring-with-Dianne-Marsh-eu4359/a-a41ih0t",
+        "reason": "Some great insights into leading through vulnerability from Netflix Engineering Director, Dianne Marsh.",
+        "cat": "podcast"
+    },
+    {
+        "title": "Let's talk about the D-word: DELEGATING",
+        "url": "https://fellow.app/blog/management/lets-talk-about-delegating",
+        "reason": "This article provides some tips for delegating as a manager.",
+        "cat": "article"
+    },
+    {
+        "title": "Reset: My Fight for Inclusion and Lasting Change",
+        "url": "https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X",
+        "reason": "Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry",
+        "cat": "book"
     }
 ]

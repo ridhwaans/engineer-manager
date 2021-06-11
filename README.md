@@ -1,5 +1,7 @@
 # Engineering Manager Resources 
- A list of engineering manager resource links.
+ A list of engineering manager resource links. 
+ 
+ Follow [Ryan Burgess on Twitter](http://twitter.com/burgessdryan)
 
 ## Mentoring
  * [Plato](https://www.platohq.com/)
@@ -30,7 +32,7 @@
  * [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0)
  * [Drive: The Surprising Truth About What Motivates Us](http://www.danpink.com/books/drive/)
  * [The Phoenix Project](https://www.bookdepository.com/The-Phoenix-Project/9780988262508)
- * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)
+ * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
  * [Building Great Startup Teams](https://www.amazon.co.uk/Building-Great-Startup-Teams-Attracting-ebook/dp/B01BVQS62A/)
  * [Leading Snowflakes: The Engineering Manager Handbook](http://leadingsnowflakes.com)
@@ -44,14 +46,24 @@
  * [Brotopia: Breaking Up the Boys' Club of Silicon Valley](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) - Provides insight into D&I history
  * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation-ebook/dp/B078FZ9SYB)
  * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790) - Work at Google
- * [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y) - A good book for leaders on how to give control rather than taking control and creating leaders rather than forging followers.
  * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352145/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1553742703&sr=8-2) - A book with helpful information on leading introverts
  * [The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Overcoming-Five-Dysfunctions-Team-first/dp/B004O2JWHC/ref=sr_1_3?keywords=The+Five+Dysfunctions+of+a+Team%3A+A+Leadership+Fable&qid=1556729373&s=gateway&sr=8-3) - This book highlights what causes a dysfunctional team and how you can improve a team's relationships
  * [Everybody Matters](https://www.amazon.com/Everybody-Matters-Extraordinary-Caring-People-ebook/dp/B00SI02E5S/) - This is an excellent book for how to think about treating people in your organization with more empathy
  * [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](https://amzn.to/2r86Gng) - The book helps understand software delivery metrics and how to measure them to organize software teams around the value stream
  * [Indistractable](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/1526610205/ref=asc_df_1526610205) - A great book with helpful tips on how to manage your attention.
+ * [The Art of Leadership: Small Things, Done Well](https://www.amazon.com/Art-Leadership-Small-Things-Done/dp/1492045691) - Another great book from Michael Lopp on leadership
+ * [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/) - This is an excellent book if you're starting a new role.
+ * [The Experimental Leader: Be a New Kind of Boss to Cultivate an Organization of Innovators](https://www.amazon.com/Experimental-Leader-Cultivate-Organization-Innovators/dp/1989603149) - Helpful tips on how to be an innovative leader and avoid the faults of historical leadership
+ * [The Alliance: Managing Talent in the Networked Age](https://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773) - A new way of thinking about management and thinking of your employees as allies
+ * [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset) - Learning how to overcome obstacles is no small thing. This book is about how to develop the right mindset to help you become better every day. Daniel Pink cites Carol Dweck in a book on this list - Drive
+ * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567) - Great book for those moving into a leadership or management role. It provides helpful tactical advice for management
+ * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186) - Written by a fellow Engineering Manager, Will Larson shows the challenges and demands of the discipline of engineering management viewed through the prism of systems thinking
+ * [Better Allies: Everyday Actions to Create Inclusive, Engaging Workplaces](https://www.amazon.com/Better-Allies-Everyday-Inclusive-Workplaces/dp/1732723303) - The Better Allies is a great read on how to help build a more inclusive environment.
+ * [Resilient Management](https://resilient-management.com/) - Fantastic, quick read on people management. Especially effective for new managers, but great for all levels.
+ * [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X) - Ellen Pao shares her experiences in her career and focuses on the fight to make an more inclusive industry
 
 ## Videos
+ * [Ryan Burgess' Manager Videos](https://www.youtube.com/watch?v=eRtuBk7GMC4&list=PLoi4aiq4kBvt7gtoWFgp74-8YULZaM9LK) - A YouTube playlist of short video clips that cover a variety of leadership topics focused on engineering management.
  * [David Grady: How to save the world (or at least yourself) from bad meetings](https://www.youtube.com/watch?v=F6Qo8IDsVNg)
  * [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en)
  * [Female Career Advancement Summed up in One Usable Diagram // Janice Fraser // Calibrate 2016](https://www.youtube.com/watch?v=SDIV8XV6Qrg&t=1s)
@@ -67,6 +79,8 @@
  * [Dare to Disagree](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree) - This is a good TED talk on how to avoid the echo chamber and learn to disagree to help improve ideas
  * [On being wrong](https://www.ted.com/talks/kathryn_schulz_on_being_wrong) - This is a great TED talk on highlighting how it's ok to be wrong
  * [Ignite the Fire - How Managers Can Spark New Leaders](https://www.infoq.com/presentations/managers-launch-leaders/) - A video of a talk about three ingredients for inspiring non-manager leaders to emerge and provides simple techniques any team member can apply
+ * [How vulnerability makes you a better leader | Tracy Young](https://www.youtube.com/watch?v=uOvK8roYVUU&ab_channel=TED) - TED Talk by Tracy Young who shares her story and demonstrates vulnerability and how important it is as a leader.
+ * [Patty McCord: 8 lessons on building a company people enjoy working for](https://www.ted.com/talks/patty_mccord_8_lessons_on_building_a_company_people_enjoy_working_for) - An excellent TED talk by Patty McCord providing short tips for a better company working enviornment
 
 ## Podcasts
  * [Front End Happy Hour Episode 17 - managers](http://frontendhappyhour.com/episodes/managing-our-drinks/) - In this episode of FEHH the panelists talk about being an engineering manager. A lot of great insights!
@@ -87,6 +101,12 @@
  * [The Elegant System of Management /w Will Larson](https://egghead.io/podcasts/the-elegant-system-of-management-with-will-larson) - Joel Hooks, from Egghead.io, sits down with Will Larson to discuss systems for engineering management
  * [Teams at Work Episode 3 - How to build successful engineering teams](https://bunch.ai/teamsatwork-podcast) - Dizzy Smith, VP Engineering of Packet, shares insights from his 15+ year career in engineering about culture building, communication structures and diverse leadership in distributed teams.
  * [Front End Happy Hour - One on ones](https://frontendhappyhour.com/episodes/shot-for-shot-one-on-ones/) - This is a good podcast episode discussing how to make one on one meetings more effective
+ * [Front End Happy Hour - Good manager, bad manager - tasty drink, bland drink](https://frontendhappyhour.com/episodes/good-manager-bad-manager-tasty-drink-bland-drink/) - A panel discussion sharing opinions on what makes good and bad managers
+ * [Front End Happy Hour - Transitioning to a new role](https://frontendhappyhour.com/episodes/transitioning-to-a-new-role-bar-hopping/) - There's some good information on preparing for a new role.
+ * [Front End Happy Hour - Remote interviewing](https://frontendhappyhour.com/episodes/remote-interviewing-drinking-on-video-calls/) - An episode talking about remote interviewing during COVID.
+ * [Super Managers](https://fellow.app/supermanagers) - A podcast from Fellow that focuses on management topics.
+ * [Super Managers - Embracing Transparency, Iteration, and Asynchronous Workflows in a Remote World](https://fellow.app/supermanagers/darren-murph-gitlab-transparency-iteration-asynchronous-workflows) - Darren Murph, from GitLab, shares how remote work empowers people at work, and also in their everyday lives.
+ * [Happy Path Programming - Vulnerability & Additive Hiring with Dianne Marsh](https://anchor.fm/happypathprogramming/episodes/24-Vulnerability--Additive-Hiring-with-Dianne-Marsh-eu4359/a-a41ih0t) - Some great insights into leading through vulnerability from Netflix Engineering Director, Dianne Marsh.
 
 ## Articles
  * [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/) - This is an excellent article on how to provide direct feedback
@@ -108,7 +128,7 @@
  * [Should Companies Get Rid of Performance Reviews?](https://readthink.com/should-companies-get-rid-of-performance-reviews-1e03b7726cc1#.vscg4lp2f) - A good article talking about the pros and cons of performance reviews.
  * [How to Spot and Magnify the Powers of Your Engineering Superheroes](http://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/)
  * [The Keys to Scaling Yourself as a Technology Leader](http://firstround.com/review/the-keys-to-scaling-yourself-as-a-technology-leader/) - Some good tips on ways to help scale yourself as a leader.
- * [Meetings that don't suck](https://library.gv.com/meetings-that-don-t-suck-959b8b5df3a4#.vdhm03k8i) - Some good tips on how to improve meetings.
+ * [Meetings that don't suck](https://techcrunch.com/2015/07/17/meetings-that-dont-suck) - Some good tips on how to improve meetings.
  * [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c#.53msecvc3) - A good article on improving 1:1s
  * [101 Questions to Ask in One on Ones](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/) - Some helpful ideas for what questions to ask in a one on one.
  * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/) - Example interview questions to help find the top performers.
@@ -161,10 +181,34 @@
  * [What most managers don’t know about leading diverse teams](https://qz.com/work/1901448/how-to-lead-a-diverse-team-effectively/) - Some helpful insights in leading more diverse teams
  * [Twitter Chief Design Officer Dantley Davis on building the most diverse team in tech](https://www.protocol.com/twitter-dantley-davis-interview) - Some interesting thoughts on why it's important to have a diverse team and how to build a diverse team.
  * [How to decide when to fire someone](https://practicebusiness.co.uk/how-to-decide-when-to-fire-someone) - This is never an easy decision to make, and this article has some helpful tips on when to decide to let someone go.
+ * [Coaching people through the Change Curve](https://www.insights.com/resources/coaching-people-through-the-change-curve/) - A helpful article that provides insights into how to prepare teams for an organizational structure change
+ * [How I Approach the Toughest Decisions](https://barackobama.medium.com/how-i-approach-the-toughest-decisions-dc1b165cdf2d) - A great article from Barack Obama about how he approaches making tough decisions.
+ * [Feedback In Times of Crisis](https://www.linkedin.com/pulse/feedback-times-crisis-karen-casella/) - Some great insights into providing feedback during times of a crisis.
+ * [Why Constraints Are Good for Innovation](https://hbr.org/2019/11/why-constraints-are-good-for-innovation) - An article that suggests that managers can innovate better by embracing constraints.
+ * [Are You Leading Through the Crisis … or Managing the Response?](https://hbr.org/2020/03/are-you-leading-through-the-crisis-or-managing-the-response) - Helpful tips and insights into how to lead during a crisis.
+ * [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) - Vulnerability as a leader goes a long way. This article shares mistakes to avoid.
+ * [How Great Managers Give and Receive Feedback](https://fellow.app/blog/2019/how-managers-give-and-receive-feedback) - Helpful tips on giving and receiving feedback.
+ * [Should You Rehire an Employee Who Left Your Company?](https://hbr.org/2021/02/should-you-rehire-an-employee-who-left-your-company) - Interesting perspectives on thinking about hiring someone who had previously left the company.
+ * [No, I’m not fine: A leader’s guide to building a culture where it’s ok to not be ok](https://fellow.app/blog/2021/building-a-culture-where-its-ok-to-not-be-ok/) - This article shares some helpful insights into building trust and vulnerability in your team.
+ * [How to Build a Culture of Ownership, and Other Engineering Leadership Tips from Plaid & Dropbox](https://review.firstround.com/how-to-build-a-culture-of-ownership-and-other-engineering-leadership-tips-from-plaid-and-dropbox) - This article shares tips for getting alignment in a team.
+ * [9 Tips for Effectively Sharing Peer Feedback in the Workplace](https://fellow.app/blog/2021/tips-for-effectively-sharing-peer-feedback-in-the-workplace) - Helpful tips for giving someone feedback.
+ * [1 Top Priority About Remote Work That Most Managers Are Forgetting](https://www.inc.com/marcel-schwantes/1-top-priority-about-remote-work-that-most-managers-are-forgetting.html) - How to improve remote work for your team.
+ * [You're not just a manager, you're also a boss](https://leaddev.com/professional-development/youre-not-just-manager-youre-also-boss) - This article helps to identify the power dynamics that come with being a manager.
+ * [Too Many Meetings? Here’s How to Scale Back](https://fellow.app/blog/2021/too-many-meetings-heres-how-to-scale-back) - There are some good tips for scaling back on the number of meetings you attend.
+ * [How can managers create a culture for women to thrive?](https://www.thefemalelead.com/post/how-can-managers-create-a-culture-for-women-to-thrive) - Tips to be more inclusive to women in your teams.
+ * [Closing the gap: A manager’s guide to advancing gender equity in the workplace](https://fellow.app/blog/management/closing-the-gap-managers-guide-to-gender-equity-in-the-workplace) - Suggestions for managers to help reduce gender gaps in the workplace.
+ * [“I Quit!” How to Tactfully Handle Employee Resignations](https://fellow.app/blog/management/i-quit-how-to-tactfully-handle-employee-resignations) - Helpful tips for dealing with someone leaving your team.
+ * [Let's talk about the D-word: DELEGATING](https://fellow.app/blog/management/lets-talk-about-delegating) - This article provides some tips for delegating as a manager.
 
 ## Newsletters
  * [Software Lead Weekly](http://softwareleadweekly.com/)
  * [Marcus Blankenship's Tech Leader Newsletter](http://marcusblankenship.com)
+ * [Better Allies](https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6) - This is a must have resource in your inbox. Each week there are five great tips to help foster a more inclusive environment.
+ * [CTO Insights with Tosho Trajanov](https://insights.toshotrajanov.com/) - Weekly reading on software engineering & technical leadership.
+ * [Fellow TLDR newsletter](https://fellow.app/newsletter/) - Helpful leadership tips in a regular newsletter.
+
+## Communities
+ * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack) - Created by Michael Lopp, the Rands Leadership Slack exists to help longtime, new, and aspiring leaders to learn through conversation and sharing of ideas.
 
 ## Contributing 
 1. Fork it
